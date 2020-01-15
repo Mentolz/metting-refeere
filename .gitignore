@@ -1,2 +1,6 @@
 # Enviroment var files
 .env
+
+### Workspace files
+# Vs-code
+*.code-workspace
