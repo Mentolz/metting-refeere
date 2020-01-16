@@ -4,3 +4,7 @@
 ### Workspace files
 # Vs-code
 *.code-workspace
+
+### Directories that save data
+# Guilds
+guilds/*
