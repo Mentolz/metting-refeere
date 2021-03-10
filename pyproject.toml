@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "meeting-referee"
+version = "0.1.0"
+description = ""
+authors = ["Diogo Neto <diogoneto.dev@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.6.13"
+
+[tool.poetry.dev-dependencies]
+python-dotenv = "*"
+discord = "*"
+ipdb = "*"
+
